@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1203" height="427" viewBox="0 0 1203 427">
+  <g id="Group_1706" data-name="Group 1706" transform="translate(1839 -1931)">
+    <g id="Component_39_2" data-name="Component 39 – 2" transform="translate(-1738 2188)">
+      <g id="Rectangle_1560" data-name="Rectangle 1560" fill="none" stroke="#e27171" stroke-width="6">
+        <rect width="456" height="170" rx="30" stroke="none"/>
+        <rect x="3" y="3" width="450" height="164" rx="27" fill="none"/>
+      </g>
+      <text id="Cliente_recibe_correo_con_botón_de_PayPal_" data-name="Cliente recibe correo
+con botón de PayPal " transform="translate(228 71)" fill="#e27171" font-size="39" font-family="Avenir-Black, Avenir" font-weight="800"><tspan x="-193.187" y="0">Cliente recibe correo</tspan><tspan x="-195.683" y="53">con botón de PayPal </tspan></text>
+    </g>
+    <g id="Component_39_4" data-name="Component 39 – 4" transform="translate(-1044 2188)">
+      <g id="Rectangle_1560-2" data-name="Rectangle 1560" fill="none" stroke="#e27171" stroke-width="6">
+        <rect width="408" height="170" rx="30" stroke="none"/>
+        <rect x="3" y="3" width="402" height="164" rx="27" fill="none"/>
+      </g>
+      <text id="Cliente_hace_pago_recurrente" data-name="Cliente hace pago 
+recurrente" transform="translate(204 71)" fill="#e27171" font-size="39" font-family="Avenir-Black, Avenir" font-weight="800"><tspan x="-171.522" y="0">Cliente hace pago </tspan><tspan x="-96.408" y="53">recurrente</tspan></text>
+    </g>
+    <g id="Component_39_3" data-name="Component 39 – 3" transform="translate(-1738 1931)">
+      <g id="Rectangle_1560-3" data-name="Rectangle 1560" fill="none" stroke="#e27171" stroke-width="6">
+        <rect width="412" height="170" rx="30" stroke="none"/>
+        <rect x="3" y="3" width="406" height="164" rx="27" fill="none"/>
+      </g>
+      <text id="Cliente_llena_forma_de_contacto" data-name="Cliente llena forma
+de contacto" transform="translate(206 71)" fill="#e27171" font-size="39" font-family="Avenir-Black, Avenir" font-weight="800"><tspan x="-174.389" y="0">Cliente llena forma</tspan><tspan x="-109.375" y="53">de contacto</tspan></text>
+    </g>
+    <g id="Group_1702" data-name="Group 1702" transform="translate(-145)">
+      <line id="Line_200" data-name="Line 200" y2="93" transform="translate(-1522.5 2101.5)" fill="none" stroke="#e27171" stroke-width="6"/>
+      <path id="Polygon_2" data-name="Polygon 2" d="M12.5,0,25,22H0Z" transform="translate(-1510 2191) rotate(180)" fill="#e27171"/>
+    </g>
+    <text id="Equipo_envía_correo_estilizado_con_botón_personalizado." data-name="Equipo envía correo 
+estilizado con botón 
+personalizado." transform="translate(-1275 2301)" fill="#3e3e3e" font-size="18" font-family="Avenir-Black, Avenir" font-weight="800"><tspan x="0" y="0">Equipo envía correo </tspan><tspan x="0" y="25">estilizado con botón </tspan><tspan x="0" y="50">personalizado.</tspan></text>
+    <text id="Equipo_genera_correo_con_botón_de_suscripción_de_Paypal_a_partir_de_plantilla_" data-name="Equipo genera correo
+con botón de suscripción
+de Paypal (a partir de plantilla)" transform="translate(-1655 2120)" fill="#3e3e3e" font-size="18" font-family="Avenir-Black, Avenir" font-weight="800"><tspan x="0" y="0">Equipo genera correo</tspan><tspan x="0" y="25">con botón de suscripción</tspan><tspan x="0" y="50">de Paypal (a partir de plantilla)</tspan></text>
+    <text id="Cliente" transform="translate(-1839 2000)" fill="#e27171" font-size="28" font-family="Avenir-Black, Avenir" font-weight="800"><tspan x="0" y="0">Cliente</tspan></text>
+    <text id="Cliente-2" data-name="Cliente" transform="translate(-1839 2256)" fill="#e27171" font-size="28" font-family="Avenir-Black, Avenir" font-weight="800"><tspan x="0" y="0">Cliente</tspan></text>
+    <g id="Group_1703" data-name="Group 1703" transform="translate(-3940.5 750.5) rotate(-90)">
+      <line id="Line_200-2" data-name="Line 200" y2="93" transform="translate(-1522.5 2101.5)" fill="none" stroke="#e27171" stroke-width="6"/>
+      <path id="Polygon_2-2" data-name="Polygon 2" d="M12.5,0,25,22H0Z" transform="translate(-1510 2206) rotate(180)" fill="#e27171"/>
+    </g>
+    <g id="Group_1705" data-name="Group 1705" transform="translate(-3387.5 750.5) rotate(-90)">
+      <line id="Line_200-3" data-name="Line 200" y2="210" transform="translate(-1522.5 2101.5)" fill="none" stroke="#e27171" stroke-width="6"/>
+      <path id="Polygon_2-3" data-name="Polygon 2" d="M12.5,0,25,22H0Z" transform="translate(-1510 2322.5) rotate(180)" fill="#e27171"/>
+    </g>
+    <g id="Group_1704" data-name="Group 1704" transform="translate(-3940.5 494.5) rotate(-90)">
+      <line id="Line_200-4" data-name="Line 200" y2="93" transform="translate(-1522.5 2101.5)" fill="none" stroke="#e27171" stroke-width="6"/>
+      <path id="Polygon_2-4" data-name="Polygon 2" d="M12.5,0,25,22H0Z" transform="translate(-1510 2206) rotate(180)" fill="#e27171"/>
+    </g>
+  </g>
+</svg>
